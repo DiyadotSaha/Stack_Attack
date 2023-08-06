@@ -1,0 +1,1 @@
+to run the project, simply open this folder in mplabx and press the build/run file to run the code.
